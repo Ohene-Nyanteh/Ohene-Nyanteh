@@ -3,11 +3,11 @@
 🚀 Software Developer | 💻 Full-Stack Engineer | 🎨 Designer  
 
 I’m passionate about building modern, scalable, and user-friendly applications that make life easier.  
-With **3+ years of freelance experience** and current work at **Jadaad Technologies**, I specialize in:  
+I am currently working at **Jadaad Technologies**, I specialize in:  
 
 - ⚡ Frontend: React, Next.js, TypeScript, Tailwind CSS  
 - 🔧 Backend: Node.js, PocketBase, PHP, Express.js, Django  
-- 📱 Mobile: React Native (Android & iOS)  
+- 📱 Mobile: React Native (Android & iOS), Kotlin & Java
 - 🗄️ Databases: SQL, MongoDB  
 - 🎨 Design: Figma, Lunacy  
 
