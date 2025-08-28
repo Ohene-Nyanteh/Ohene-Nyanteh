@@ -27,8 +27,6 @@ I am currently working at **Jadaad Technologies**, I specialize in:
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Ohene-Nyanteh)](https://github.com/ryo-ma/github-profile-trophy)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohene-Nyanteh&show_icons=true)
 
 📫 **Reach me**  
 [🌐 Portfolio](https://ohene-nyanteh.github.io/Portfolio-Website/#Home) |  
