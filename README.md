@@ -16,7 +16,6 @@ I am currently working at **Jadaad Technologies**, I specialize in:
 - **School Voting System** – Secure and transparent digital voting platform for Schools
 - **Scribbler** – A Tauri + React desktop app for writers
 
-📌 Always learning, always building — I aim to create apps that make a difference.  
 ---
 
 <h3 align="left">Connect with me:</h3>
